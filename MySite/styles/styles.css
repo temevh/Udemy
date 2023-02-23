@@ -39,9 +39,23 @@ span{
 }
 
 
+.skill-image{
+    width: 25%;
+    border-radius: 100%;
+    float:left;
+    margin-right: 40px;
+}
+
+.chili-image{
+    width: 25%;
+    float: right;
+}
+
 .skill-row{
-    margin: 100px auto 100px auto;
+    margin: 200px auto 200px auto;
     width: 50%;
+    text-align: left;
+    line-height: 2;
 }
 
 .bottom-cloud{
