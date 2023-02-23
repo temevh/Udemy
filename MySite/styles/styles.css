@@ -27,17 +27,6 @@ span{
     text-decoration: underline;
 }
 
-.mid-div{
-    height: 200px;
-    width: 200px;
-    background-color: red;
-}
-.bot-div{
-    height: 200px;
-    width: 200px;
-    background-color: blue;
-}
-
 .bottom-cloud{
     position: absolute;
     left: 300px;
