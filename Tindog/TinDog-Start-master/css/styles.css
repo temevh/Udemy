@@ -20,7 +20,7 @@ h1{
 }
 
 .navbar{
-    padding-bottom: 4.5rem;
+    padding:0 0 4.5rem;
 }
 
 
@@ -36,5 +36,14 @@ h1{
 
 .nav-link{
     font-family: "Montserrat-light", sans-serif;
-    font-size: 1.2rem;
+    font-size: 1.2rem;   
+}
+
+
+.downloadbtn{
+    margin: 5% 3% 5% 0;
+}
+
+.title-image{
+    width: 60%;
 }
