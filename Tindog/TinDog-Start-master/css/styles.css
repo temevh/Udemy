@@ -46,4 +46,27 @@ h1{
 
 .title-image{
     width: 60%;
+    transform: rotate(25deg);
+}
+
+.icons{
+    font-size: 80px;
+    color: #ff4c68;
+    padding-bottom: 30px;
+}
+
+h3{
+    font-family: "Ubuntu";
+    font-weight: bold;
+}
+
+p{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 20px;
+}
+
+.features{
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 300px;
 }
